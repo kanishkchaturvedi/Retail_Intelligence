@@ -4,3 +4,4 @@ selenium
 webdriver-manager
 fuzzywuzzy
 python-Levenshtein
+openpyxl
